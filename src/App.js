@@ -6,7 +6,7 @@ import Results from './components/Results';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/QuizApp">
       <div className="App">
         <Routes>
           <Route path="/" element={<Home />} />
