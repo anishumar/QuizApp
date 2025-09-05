@@ -1,0 +1,132 @@
+{
+  "easy": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "correct_answer": "Paris",
+      "incorrect_answers": ["London", "Berlin", "Madrid"],
+      "difficulty": "easy",
+      "category": "Geography"
+    },
+    {
+      "id": 2,
+      "question": "What is 2 + 2?",
+      "correct_answer": "4",
+      "incorrect_answers": ["3", "5", "6"],
+      "difficulty": "easy",
+      "category": "Mathematics"
+    },
+    {
+      "id": 3,
+      "question": "What color do you get when you mix red and blue?",
+      "correct_answer": "Purple",
+      "incorrect_answers": ["Green", "Orange", "Yellow"],
+      "difficulty": "easy",
+      "category": "Art"
+    },
+    {
+      "id": 4,
+      "question": "How many days are in a week?",
+      "correct_answer": "7",
+      "incorrect_answers": ["5", "6", "8"],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": 5,
+      "question": "What is the largest planet in our solar system?",
+      "correct_answer": "Jupiter",
+      "incorrect_answers": ["Saturn", "Earth", "Neptune"],
+      "difficulty": "easy",
+      "category": "Science"
+    }
+  ],
+  "medium": [
+    {
+      "id": 6,
+      "question": "What is the chemical symbol for gold?",
+      "correct_answer": "Au",
+      "incorrect_answers": ["Go", "Gd", "Ag"],
+      "difficulty": "medium",
+      "category": "Science"
+    },
+    {
+      "id": 7,
+      "question": "Who painted the Mona Lisa?",
+      "correct_answer": "Leonardo da Vinci",
+      "incorrect_answers": ["Vincent van Gogh", "Pablo Picasso", "Michelangelo"],
+      "difficulty": "medium",
+      "category": "Art"
+    },
+    {
+      "id": 8,
+      "question": "What is the smallest country in the world?",
+      "correct_answer": "Vatican City",
+      "incorrect_answers": ["Monaco", "Liechtenstein", "San Marino"],
+      "difficulty": "medium",
+      "category": "Geography"
+    },
+    {
+      "id": 9,
+      "question": "What year did World War II end?",
+      "correct_answer": "1945",
+      "incorrect_answers": ["1944", "1946", "1943"],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": 10,
+      "question": "What is the speed of light in a vacuum?",
+      "correct_answer": "299,792,458 m/s",
+      "incorrect_answers": ["300,000,000 m/s", "299,000,000 m/s", "301,000,000 m/s"],
+      "difficulty": "medium",
+      "category": "Science"
+    }
+  ],
+  "hard": [
+    {
+      "id": 11,
+      "question": "What is the Heisenberg Uncertainty Principle?",
+      "correct_answer": "You cannot simultaneously know both the position and momentum of a particle",
+      "incorrect_answers": [
+        "Energy cannot be created or destroyed",
+        "The speed of light is constant",
+        "Matter and energy are equivalent"
+      ],
+      "difficulty": "hard",
+      "category": "Science"
+    },
+    {
+      "id": 12,
+      "question": "Who wrote 'The Canterbury Tales'?",
+      "correct_answer": "Geoffrey Chaucer",
+      "incorrect_answers": ["William Shakespeare", "John Milton", "Edmund Spenser"],
+      "difficulty": "hard",
+      "category": "Literature"
+    },
+    {
+      "id": 13,
+      "question": "What is the mathematical constant e approximately equal to?",
+      "correct_answer": "2.718",
+      "incorrect_answers": ["3.141", "1.414", "1.732"],
+      "difficulty": "hard",
+      "category": "Mathematics"
+    },
+    {
+      "id": 14,
+      "question": "Which programming language was created by Brendan Eich?",
+      "correct_answer": "JavaScript",
+      "incorrect_answers": ["Python", "Java", "C++"],
+      "difficulty": "hard",
+      "category": "Technology"
+    },
+    {
+      "id": 15,
+      "question": "What is the name of the process by which plants convert light energy into chemical energy?",
+      "correct_answer": "Photosynthesis",
+      "incorrect_answers": ["Respiration", "Fermentation", "Transpiration"],
+      "difficulty": "hard",
+      "category": "Science"
+    }
+  ]
+}
